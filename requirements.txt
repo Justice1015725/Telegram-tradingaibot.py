@@ -1,0 +1,9 @@
+python-telegram-bot==20.6
+requests
+numpy
+pandas
+ta
+pytz
+textblob
+scikit-learn
+tensorflow
